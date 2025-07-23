@@ -42,6 +42,5 @@ unexpected errors arise.
 
 ## OUTPUT ##
 
-<img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/09f42551-1417-4042-83b3-0a0e6cc16b98" />
 
 
